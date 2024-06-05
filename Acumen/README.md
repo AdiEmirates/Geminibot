@@ -106,3 +106,7 @@ The objective of this assignment is to develop a Python Django application that 
 
 ## Summary
 By completing this assignment, you will demonstrate your ability to develop a real-time chat application using Django and integrate it with external APIs like the Gemini API. This project showcases skills in web development, API integration, and user interface design.
+
+http://127.0.0.1:8000/  
+http://127.0.0.1:8000/admin/
+
