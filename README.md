@@ -62,7 +62,7 @@ python manage.py startapp chatbot_app
 - **Security:** Implement secure communication protocols and user authentication to protect user data and privacy.
 - **Scalability:** Design the application architecture to handle a large number of concurrent users efficiently.
 - **Monitoring:** Set up monitoring tools to track application performance and detect any issues in real-time.
-- **Documentation:** Maintain detailed documentation for the project including setup instructions, API documentation, and user guides.
+
 
 Link to Access :http://127.0.0.1:8000/admin/
                 http://127.0.0.1:8000/
